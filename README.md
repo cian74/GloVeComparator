@@ -1,7 +1,10 @@
 GloVe Comparator
+
 @author Cian Barrett 
 @version Java 17
+
 Description
+
 This is a console-based application that compares a word entered by the
 user against 59602 other words from a file using a map and comparison
 algorithm’s which prints out the most similar words. The higher the
