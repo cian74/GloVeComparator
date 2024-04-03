@@ -1,0 +1,25 @@
+Similar words to 'manual' with similarity score > 0.75:
+
+No similar words found
+Similar words to 'car' with similarity score > 0.75:
+driving: 0.8401106143050099
+driver: 0.8468053976768447
+taxi: 0.7838710683350016
+truck: 0.9208714146727001
+motorcycle: 0.7886973908464484
+bus: 0.8202545879903305
+cab: 0.77447078964509
+trucks: 0.7732408172780376
+passenger: 0.7782684781458261
+vehicle: 0.8848891750498227
+pickup: 0.7765548508625233
+bicycle: 0.7557036678768033
+train: 0.7647706735854897
+
+The most similar word to 'car' is 'truck' with a similarity score of '0.920871'
+Similar words to 'food' with similarity score > 0.75:
+meat: 0.7687241722557662
+coffee: 0.792292641549474
+goods: 0.755374376521744
+
+The most similar word to 'food' is 'coffee' with a similarity score of '0.792293'
